@@ -1,2 +1,2 @@
 flask
-restx
+flask-restx
